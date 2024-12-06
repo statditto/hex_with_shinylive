@@ -2,7 +2,7 @@
 
 RでHexを作りました。
 
-**既知のissueにより、本番環境でうごきません；；**
+~~既知のissueにより、本番環境でうごきません；；~~
 https://github.com/posit-dev/shinylive/issues/133
 
 動きました。
